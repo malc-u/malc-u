@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mal Calow-Uttley - @malc-u
+- 👋 Hi, I’m Mal - @malc-u
 - 👀 I’m currently looking for a suitable position that will allow me to grow and gain experience in coding.
 - 🌱 I’m currently learning React and improving my Python 
 - 📫 You can reach me on my LinkedIn profile - https://www.linkedin.com/in/mal-c-u/
